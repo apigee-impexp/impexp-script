@@ -1,0 +1,22 @@
+{
+  "name": "apigee-impexp-package",
+  "version": "1.0.0",
+  "description": "package to import/export KVMs Caches and Target Servers",
+  "main": "lib/apigee_impexp.js",
+  "scripts": {
+    "test": "impexp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apigee-impexp/impexp-script.git"
+  },
+  "keywords": [
+    "impexp"
+  ],
+  "author": "shekalefetut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apigee-impexp/impexp-script/issues"
+  },
+  "homepage": "https://github.com/apigee-impexp/impexp-script#readme"
+}
